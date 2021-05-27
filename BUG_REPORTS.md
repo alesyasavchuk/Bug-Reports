@@ -71,8 +71,14 @@
 ***
 #### Bug report 5
 **Severity:** Major
+
+
 **Summary:** Search does not work when entering two characters
+
+
 **Steps:**
+
+
 1.Open [http://inqa-challenge.surge.sh/](http://inqa-challenge.surge.sh/)
 2.Go to tab "Add task"
 3.Create any 3 tasks with different names and more than 2 characters
