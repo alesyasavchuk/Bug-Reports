@@ -79,11 +79,11 @@
 **Steps:**
 
 
-1.Open [http://inqa-challenge.surge.sh/](http://inqa-challenge.surge.sh/)
-2.Go to tab "Add task"
-3.Create any 3 tasks with different names and more than 2 characters
-4.Go to tab "Tasks"
-5.In the "Text search" field, enter the first two letters of the title of any of the tasks
+1. Open [http://inqa-challenge.surge.sh/](http://inqa-challenge.surge.sh/)
+2. Go to tab "Add task"
+3. Create any 3 tasks with different names and more than 2 characters
+4. Go to tab "Tasks"
+5. In the "Text search" field, enter the first two letters of the title of any of the tasks
 
 **Actual result:** Search does not work when entering two characters
 **Expected result:** Search works when you enter two characters
