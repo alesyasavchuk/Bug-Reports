@@ -1,1 +1,1 @@
-"# Bug-Reports" 
+# Bug reports for Syberry interview 
